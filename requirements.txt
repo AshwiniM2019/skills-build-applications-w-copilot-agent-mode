@@ -1,0 +1,2 @@
+# The OctoFit application uses Node.js; no Python support-tooling packages are
+# currently required.
